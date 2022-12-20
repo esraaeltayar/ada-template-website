@@ -1,16 +1,22 @@
 # How did Politicalization on Youtube evolve over time?
 
-## Data exploration
+## Short Introduction (Abstract)
 
-### YouNiverse
+## About YouNiverse
+
+## About Radicalization Dataset
+
+## Framing Research
+
+## Data exploration (YouNiverse)
 First we explore the dataset after reduction into the three main categories. As per the below figures, fig 1 shows the number of channels per category as can be seen from the graph, "People & Blogs" Category is the highest around 18k channels. From fig 2, we can see how subscribers count is distributed among the three categories. Since the distribution of subscribers count is heavily skewed we've used log scaled count. We can observe that "News and Politics" category has the highest median with more than 50% of the channels have more than 60k subscribers.
 
 ![channel/subscriber distribution](/assets/img/exploration_1.png)
 
-
-### Radicalization Dataset
+## Data exploration (Radicalization Dataset)
 
 ![pol orient distribution](/assets/img/exploration_2.png)
+
 
 ## A) Did the general political interaction on Youtube increase over time?
 

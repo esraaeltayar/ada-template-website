@@ -4,7 +4,7 @@
 
 ## B) Did the political sentiment on Youtube change over time? 
 
-![This is an image] (https://github.com/esraaeltayar/ada-template-website/blob/master/assets/img/sent_figures.png)
+![This is an image](/assets/img/sent_figures.png)
 
 
 ## C) Which political topics had the most interactions?

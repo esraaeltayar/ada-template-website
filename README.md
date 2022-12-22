@@ -1,5 +1,5 @@
 # Politics on Youtube
-![wallpaper](/assets/img/wallpaper_new.png)
+![wallpaper](/assets/img/wallpaper_new.jpg)
 
 ## Short Introduction (Abstract)
 

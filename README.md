@@ -1,6 +1,7 @@
-# Politics on Youtube over time?
+# Politics on Youtube
 
 ## Short Introduction (Abstract)
+
 
 ## Framing our research
 Our approach is to first analyze the general political interaction on Youtube and compare it to the watching-behaviour of different video categories. Showing that there are indeed differences in the interaction behvaiour in political vs non-political videos, we narrow our research down to understand the differences within the category of political videos. More precisely, we analyze the differences in watching behaviour regarding vieos about politicians (Trump, Clinton and Obama) and also political orientation (left, center and right). Using the results, we examine how these are in line with the election results in the US. In our last part, we analyze the differences in keywords used by the three groups representing the political spectrum and test whether the respective sentiment disceprancies are statistically significant between the political orientations.

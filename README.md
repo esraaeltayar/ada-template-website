@@ -105,6 +105,11 @@ Also as describe in before, we want to analyze also the the evolvement of the he
 
 **Sentiment comparison of relevant political topics**
 
+Digging further into the political spectrum, we put some of the buzz topics in the American society under the spot light. We want to explore the context in which such topics are addressed by the political orientations in their videos from a sentiment point of view. The graph below illustrates the discrepancy of the sentiment between the right and left wings related to controversial issues: climate change, women rights, immigrants' status, and health care. 
+
+
+![sent_analysis_description](/assets/img/sent_analysis_description.jpg)
+
 
 ## Conclusion
 

@@ -60,11 +60,10 @@ As can be seen from the above graph, peoples average interactions per video is g
 
 ## (B) Analyzing the sentiment of videos representing the political spectrum
 
->> DESCRIPTION OF WHAT WE ARE DOING <<
-As we have seen in the previous part, YouTube 
+As we have seen in the previous part, users are interacting strongly on YouTube about political topics. This behaviour lead us to the question whether we can observe differences in user-behaviour based on the political orientation. And if so, are whether these are in line with the election results of the US in 2017. 
 
 ### Videos related to american politicians
-
+First, we analyze the videos related to american politicians
 
 
 ![quarterly amount videos trump etc](/assets/img/trump_clinton_obama_videos.png)

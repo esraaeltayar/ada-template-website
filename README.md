@@ -103,7 +103,7 @@ Also as describe in before, we want to analyze also the the evolvement of the he
 
 ![wordcloud left](/assets/img/word_cloud_right.png)
 
-**Sentiment comparison of relevant political topics **
+**Sentiment comparison of relevant political topics**
 
 
 ## Conclusion

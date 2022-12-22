@@ -108,7 +108,11 @@ The most frequently used nouns in the titles for the left and right winged video
 
 ![wordcloud left](/assets/img/word_cloud_left.png)
 
+![left words](/assets/img/left_words.png)
+
 ![wordcloud left](/assets/img/word_cloud_right.png)
+
+![right words](/assets/img/right_words.png)
 
 **Sentiment comparison of relevant political topics**
 

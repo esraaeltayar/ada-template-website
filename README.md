@@ -8,16 +8,20 @@ YouTube is one of the major social media platforms of our generation and people 
 
 ## About Radicalization Dataset
 
-## (A) Analyzing the general interaction on policital videos
+## More Politics on Youtube!
 
-First, we explore the activity of channels by category measured by video production on quarter basis, as well as views by category.
+One interesting finding from our analysis of YouTube videos is that the news and politics category seems to be experiencing rapid growth. Specifically, the number of videos in this category appears to be increasing exponentially, and the number of views is following a similar trend. 
 
 ![quarterly video release](/assets/img/number_videos_uploaded.png)
 
+
 ![quarterly views](/assets/img/Interaction.png)
 
-As can be seen from the above graph, video production in the "News & Politics" category started to grow exponentially from 2015 and it exceeded the other two categories starting 2017. This can be seen as an indicator that the general interest in videos about politics and news is increasing recently. This is also reflected by the exponential growth in views in this videos category while the interest in "Blog & People" decreases starting from around 2017.
+This suggests that there is a high level of interest in this type of content among YouTube users.
 
+There are a few potential reasons for this growth. It could be that more and more people are turning to YouTube for their news and political information, or that the quality and diversity of content in this category is improving. Alternatively, it could be that the algorithms used by YouTube are promoting this type of content more heavily, leading to increased visibility and engagement.
+
+Overall, the exponential growth of the news and politics category on YouTube highlights the important role that this platform plays in the distribution of information and the formation of public opinion. It will be interesting to see how this trend continues to evolve over time.
 
 
 ### It is all Gloom and Doom in politics:
@@ -30,38 +34,41 @@ It was also always the worst overtime.
 
 ![Sentiment in video descriptions per category overtime](assets/img/Sentiment_per_category_over_time.png)
 
-And if that wasn't enough, it also had the highest ratio of dislikes to likes and dislikes combined (which we call Heat Metric). 
+And if that wasn't enough, it also had the highest ratio of dislikes to likes and dislikes combined (which we call Heat Metric).
+
 ![Heat in video descriptions per category](assets/img/Heat_per_category.png)
 
-It consistently had morthe highest heat overtime.
+It consistently had the highest heat overtime.
 
 ![Heat in video descriptions per category overtime](assets/img/Heat_per_category_over_time.png)
 
-Looks like people might not be too keen on staying up to date with current events, or at least not on YouTube!
+Looks like people might not be too keen on staying up to date with current events, It looks like it could use a little bit of good vibes!
 
 ![why so serious?!](assets/img/why-so-serious-joker.gif)
 
 
+## Mystries from the data:
 
 ![quarterly total heat](/assets/img/heat_metric_1.png)
 
-Surprisingly, the dislikes over total number of likes and dislikes dropped overtime. We have some theories about what this happens:
-
-- People are accepting opposing opinions
-- People are becoming so politically radicalized that they only interact/view videos that agree with their own political views
 
 ![quarterly avg interaction](/assets/img/avg_interactions.png)
 
-As can be seen from the above graph, peoples average interactions per video is growing overtime for this category. Which means that people are having stronger opinions about the content either positive or negative (which can be a sign of redicalization)
 
+There could be a few potential reasons for the sharp decrease in the ratio of dislikes to total likes and dislikes for videos in the People & Blogs category on YouTube over time.
 
+One possibility is that the quality of the content in this category is improving. As the content becomes more engaging and valuable to viewers, they may be more likely to like and less likely to dislike the videos. This could also be due to changes in the algorithms used by YouTube to recommend and promote content, which could be driving more traffic to higher-quality videos in the People & Blogs category.
 
-## (B) Analyzing the sentiment of videos representing the political spectrum
+Another possibility is that the creators of these videos are paying more attention to their engagement metrics and adjusting their content accordingly. For example, they may be including more interactive elements or responding more actively to comments and feedback from their viewers, which could lead to increased likes and fewer dislikes.
 
-As we have seen in the previous part, users are interacting strongly on YouTube about political topics. This behaviour lead us to the question whether we can observe differences in user-behaviour based on the political orientation. And if so, are whether these are in line with the election results of the US in 2017. 
+Ultimately, it will be important to continue monitoring this trend and gathering additional data in order to fully understand the underlying causes of the sharp decrease in dislikes for videos in the People & Blogs category on YouTube.
 
-### Videos related to american politicians
-First, we analyze the videos related to american politicians. More precisely, we extracted all videos which contain "Trump", "Obama" or "Clinton" in their video description. Thus, we ended up with 
+## An Analysis of Trump, Obama, and Clinton on YouTube: Quantity, Quality, and Sentiment
+
+As we have seen in the previous part, users are interacting strongly on YouTube about political topics. This behaviour lead us to the question whether we can observe differences in user-behaviour based on the political orientation. And if so, are these are in line with the election results of the US in 2017. 
+
+First, we analyze the videos related to american politicians. More precisely, we extracted all videos which contain "Trump", "Obama" or "Clinton" in their video description. Thus, we ended up with:
+
 - 349,091 Trump videos,
 - 120,319 Obama videos,
 - 46,336 Clinton videos.
@@ -69,14 +76,44 @@ First, we analyze the videos related to american politicians. More precisely, we
 This already shows that the amount of videos containing "Trump" in their description strongly dominates the two other politicians. However, to understand this number even better, we are interested how the releases of these videos look over time, i.e. we examine the amount of quarterly released videos over time, the monthly views of each of these categories over time and the resulting average views per video over time.
 
 
+
 ![quarterly amount videos trump etc](/assets/img/trump_clinton_obama_videos.png)
 
 ![quarterly views trump etc](/assets/img/trump_clinton_obama_monthly_views.png)
 
+We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinto videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, 
+
+
+But it's not just the quantity of videos that's interesting - the sentiment for each of these figures also showed some interesting patterns. When we plotted the sentiment scores for Trump, Obama, and Clinton on the same graph, we saw that Trump had a huge positive jump in sentiment score from the beginning of 2014 until the end of 2015, while the sentiment scores for Obama and Clinton remained relatively stable.
+
+
 ![monthly avg views trump etc](/assets/img/sent_figures.png)
 
-We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinto videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, we can conclude that videos containing "Trump" got much more coverage and publicity from youtube compared to his opponent (Clinton) and his predeccessor (Obama). This observation is therefore perfectly in line with the election results 2017 and it is a good question to ask if YouTube actually contributed to the election victory of Trump.
+We can see that this increase in sentiment coincided with an increase in average views per videos as well compared to the other politicians. Which means that he was able to capture alot of good attention in this period. This shows more public interest in his videos or in other words, he was a trend in that period.
 
+![monthly avg views trump etc](/assets/img/avg_views_trump_etc.png)
+
+So what could be causing these trends?
+- One possibility is that Trump was simply more effective at using YouTube to promote himself and his message. 
+- His contraversial views and extreme opinions may have been able to generate more buzz and engagement around his videos, leading to more views and a higher sentiment score. 
+- Another possibility is that the algorithms used by YouTube were promoting Trump's content more heavily, leading to increased visibility and engagement.
+
+Ultimately, it's difficult to say for sure what factors contributed to these trends. However, it's worth noting that Trump's strong performance on YouTube coincided with his victory in the 2016 presidential election. While it's hard to say for certain whether his success on YouTube played a direct role in his electoral success, it's clear that he was able to leverage the platform in a way that resonated with many viewers.
+
+
+
+All in all, we can conclude that videos containing "Trump" got much more coverage and publicity from youtube compared to his opponent (Clinton) and his predeccessor (Obama). Got more positive sentiment and hype as well. This observation is therefore perfectly in line with the election results 2017 and it is a good question to ask if YouTube actually contributed to the election victory of Trump.
+
+## Polarization before Election times:
+As the presidential elections draw closer, it's not uncommon to see an increase in heated discussions and polarization in the media. But what about on YouTube? To investigate this question, we used our "heat metric" - the average ratio of dislikes to total likes and dislikes for videos over time - to see if similar trends were emerging on the platform.
+
+![monthly avg views trump etc](assets/img/heat_before_elections.png)
+
+As the plot shows, there was a clear uptick in the heat metric around the time of the 2016 elections. In other words, there were more dislikes relative to likes and dislikes for videos featuring these figures during this period. This could be a sign of increased political polarization on YouTube, as viewers seemed to be more divided in their opinions about the candidates.
+
+After the elections, the heat metric returned to more typical levels. This could be due to a variety of factors, such as changes in the types of content being produced or shared on YouTube, or a decrease in public interest in politics as the election cycle draws to a close.
+
+Overall, our analysis suggests that YouTube can be a reflection of the larger political climate, and that the platform may be influenced by the intensity of political campaigns and the level of public interest in politics. As we head into another presidential election cycle, it will be interesting to see how the heat metric and other indicators of polarization change on YouTube.
 
 ### Videos categorized by political orientation
 In order to understand the difference in user-behavior based on the political orientation even better, we used the "Radicalization Dataset" described above on top of the YouNiverse dataset as we had access to 676 channels classified based on their political orientation (i.e. left, center, right). Using these classifications, we had 228,730 classified videos based on their political orientation. Using this video data, we analyzed the growth of each of the video categories over time and also compared the development of the heat-metric over time.
@@ -133,14 +170,3 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 
 
-
-
-
-## Data exploration (YouNiverse)
-First we explore the dataset after reduction into the three main categories. As per the below figures, fig 1 shows the number of channels per category as can be seen from the graph, "People & Blogs" Category is the highest around 18k channels. From fig 2, we can see how subscribers count is distributed among the three categories. Since the distribution of subscribers count is heavily skewed we've used log scaled count. We can observe that "News and Politics" category has the highest median with more than 50% of the channels have more than 60k subscribers.
-
-![channel/subscriber distribution](/assets/img/exploration_1.png)
-
-## Data exploration (Radicalization Dataset)
-
-![pol orient distribution](/assets/img/exploration_2.png)

@@ -63,17 +63,25 @@ As can be seen from the above graph, peoples average interactions per video is g
 As we have seen in the previous part, users are interacting strongly on YouTube about political topics. This behaviour lead us to the question whether we can observe differences in user-behaviour based on the political orientation. And if so, are whether these are in line with the election results of the US in 2017. 
 
 ### Videos related to american politicians
-First, we analyze the videos related to american politicians
+First, we analyze the videos related to american politicians. More precisely, we extracted all videos which contain "Trump", "Obama" or "Clinton" in their video description. Thus, we ended up with 
+- 349,091 Trump videos,
+- 120,319 Obama videos,
+- 46,336 Clinton videos.
+
+This already shows that the amount of videos containing "Trump" in their description strongly dominates the two other politicians. However, to understand this number even better, we are interested how the releases of these videos look over time, i.e. we examine the amount of quarterly released videos over time, the monthly views of each of these categories over time and the resulting average views per video over time.
 
 
 ![quarterly amount videos trump etc](/assets/img/trump_clinton_obama_videos.png)
 
 ![quarterly views trump etc](/assets/img/trump_clinton_obama_monthly_views.png)
 
-Seems like trump got much more coverage & publicity from youtube compared to his opponent (hillary) and his predeccessor (obama).
+![monthly avg views trump etc](/assets/img/sent_figures.png)
+
+We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinto videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, we can conclude that videos containing "Trump" got much more coverage and publicity from youtube compared to his opponent (Clinton) and his predeccessor (Obama). This observation is therefore perfectly in line with the election results 2017 and it is a good question to ask if YouTube actually contributed to the election victory of Trump.
 His videos got more attention as well we measure that with the average views per videos.
 
-![monthly avg views trump etc](/assets/img/sent_figures.png)
+
+
 
 Trump got much more coverage & publicity & attention from youtube compared to his opponent (hillary) and his predeccessor (obama). 
 

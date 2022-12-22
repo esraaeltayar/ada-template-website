@@ -73,7 +73,7 @@ As we have seen in the previous part, YouTube
 Seems like trump got much more coverage & publicity from youtube compared to his opponent (hillary) and his predeccessor (obama).
 His videos got more attention as well we measure that with the average views per videos.
 
-![monthly avg views trump etc](/assets/img/avg_views_trump_etc.png)
+![monthly avg views trump etc](/assets/img/sent_figures.png)
 
 Trump got much more coverage & publicity & attention from youtube compared to his opponent (hillary) and his predeccessor (obama). 
 
@@ -112,11 +112,6 @@ Also as describe in before, we want to analyze also the the evolvement of the he
 ------------------------------------------------------------------------------------------
 
 
-![This is an image](/assets/img/sent_time.png)
-
-![This is an image](/assets/img/sent.png)
-
-![This is an image](/assets/img/sent_figures.png)
 
 
 

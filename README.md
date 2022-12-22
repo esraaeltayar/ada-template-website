@@ -99,9 +99,12 @@ Also as describe in before, we want to analyze also the the evolvement of the he
 
 From the plot we can see that between 2014 and mid 2015, the average heat metric between left and right videos coincides almost perfectly. However, the average heat metric increases strongly after beginning 2016 while the heat metric of right wing videos decreased strongly. This divergence means that the amount of dislikes relative to the amount of likes + dislikes increased strongly for the left wing videos (i.e. people disagreed with the content more) while it decreased for the right wing videos, i.e. got more likes in relative terms. This is very interesting as it is well in line with the political victory of Donald Trump. It is also worth mentioning that the two graphs come together over time and are almost aligned again mid 2019. 
 
-## (C) Which political topics had the most interactions?
+## (C) Analysis of topics covered by the left and right wings
+As we have seen in the previous analysis, there are strong differences in the user-engagement of the and right videos. This lead us to the question whether we can find differences in topics covered by left and right wing videos. To do so, we created each a wordcloud for the left and right videos based on the nouns they use most frequently in the video titles. Using the most frequently used nouns, we then compared the sentiments for the videos containing these nouns in the title both for the left and right videos. Finally, we tested the statistical significance of the difference in sentiment by conducting a linear regression.
 
 **Word Cloud comparison**
+
+The most frequently used nouns in the titles for the left and right winged videos are looking as follows.
 
 ![wordcloud left](/assets/img/word_cloud_left.png)
 

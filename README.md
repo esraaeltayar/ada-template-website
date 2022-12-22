@@ -47,21 +47,7 @@ Looks like people might not be too keen on staying up to date with current event
 ![why so serious?!](assets/img/why-so-serious-joker.gif)
 
 
-## Mystries from the data:
-
-![quarterly total heat](/assets/img/heat_metric_1.png)
-
-
-![quarterly avg interaction](/assets/img/avg_interactions.png)
-
-
-There could be a few potential reasons for the sharp decrease in the ratio of dislikes to total likes and dislikes for videos in the People & Blogs category on YouTube over time.
-
-One possibility is that the quality of the content in this category is improving. As the content becomes more engaging and valuable to viewers, they may be more likely to like and less likely to dislike the videos. This could also be due to changes in the algorithms used by YouTube to recommend and promote content, which could be driving more traffic to higher-quality videos in the People & Blogs category.
-
-Another possibility is that the creators of these videos are paying more attention to their engagement metrics and adjusting their content accordingly. For example, they may be including more interactive elements or responding more actively to comments and feedback from their viewers, which could lead to increased likes and fewer dislikes.
-
-Ultimately, it will be important to continue monitoring this trend and gathering additional data in order to fully understand the underlying causes of the sharp decrease in dislikes for videos in the People & Blogs category on YouTube.
+.
 
 ## An Analysis of Trump, Obama, and Clinton on YouTube: Quantity, Quality, and Sentiment
 
@@ -170,3 +156,18 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 
 
+## Mystries from the data:
+
+![quarterly total heat](/assets/img/heat_metric_1.png)
+
+
+![quarterly avg interaction](/assets/img/avg_interactions.png)
+
+
+There could be a few potential reasons for the sharp decrease in the ratio of dislikes to total likes and dislikes for videos in the People & Blogs category on YouTube over time.
+
+One possibility is that the quality of the content in this category is improving. As the content becomes more engaging and valuable to viewers, they may be more likely to like and less likely to dislike the videos. This could also be due to changes in the algorithms used by YouTube to recommend and promote content, which could be driving more traffic to higher-quality videos in the People & Blogs category.
+
+Another possibility is that the creators of these videos are paying more attention to their engagement metrics and adjusting their content accordingly. For example, they may be including more interactive elements or responding more actively to comments and feedback from their viewers, which could lead to increased likes and fewer dislikes.
+
+Ultimately, it will be important to continue monitoring this trend and gathering additional data in order to fully understand the underlying causes of the sharp decrease in dislikes for videos in the People & Blogs category on YouTube.

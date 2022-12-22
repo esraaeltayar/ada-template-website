@@ -106,13 +106,13 @@ As we have seen in the previous analysis, there are strong differences in the us
 
 The most frequently used nouns in the titles for the left and right winged videos are looking as follows.
 
-![wordcloud left](/assets/img/word_cloud_left.png)
+![wordcloud left](/assets/img/word_cloud_left.png)  ![left words](/assets/img/left_words.png)
 
-![left words](/assets/img/left_words.png)
 
-![wordcloud left](/assets/img/word_cloud_right.png)
 
-![right words](/assets/img/right_words.png)
+![wordcloud left](/assets/img/word_cloud_right.png) ![right words](/assets/img/right_words.png)
+
+
 
 **Sentiment comparison of relevant political topics**
 

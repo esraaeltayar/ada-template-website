@@ -27,9 +27,12 @@ Overall, the exponential growth of the news and politics category on YouTube hig
 ### It is all Gloom and Doom in politics:
 In the previous part, we have seen that the interest in political videos is growing rapidly. Thus, we are interested in analyzing the user behaviour and the general interaction with political videos in comparison to non-political videos. Therefore, we analyze the general sentiment per video category and the so defined "Heat metric", which is calculated as follows:
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="/assets/img/new_heat.png" />
-</p>
+</p> -->
+
+
+![heat metric](assets/img/new_heat.png)
 
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
 
@@ -50,11 +53,9 @@ It consistently had the highest Heat overtime.
 Looks like people might not be too keen on staying up to date with current events, It looks like it could use a little bit of good vibes!
 
 
-<p align="center"> 
-  <img src="/assets/img/why-so-serious-joker.gif" />
-</p>
 
 
+![why-so-serious-joker](assets/img/why-so-serious-joker.gif)
 .
 
 ## An Analysis of Trump, Obama, and Clinton on YouTube: Quantity, Quality, and Sentiment

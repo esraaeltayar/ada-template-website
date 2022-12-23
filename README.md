@@ -70,7 +70,7 @@ This already shows that the amount of videos containing "Trump" in their descrip
 
 ![quarterly views trump etc](/assets/img/trump_clinton_obama_monthly_views.png)
 
-We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinto videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, 
+We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinton videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, 
 
 
 But it's not just the quantity of videos that's interesting - the sentiment for each of these figures also showed some interesting patterns. When we plotted the sentiment scores for Trump, Obama, and Clinton on the same graph, we saw that Trump had a huge positive jump in sentiment score from the beginning of 2014 until the end of 2015, while the sentiment scores for Obama and Clinton remained relatively stable.
@@ -151,7 +151,7 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 
 ## Conclusion
-It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. 
+It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. So is there a general negativity in the air we breathe or is there something else increasing the heat? What is better than looking into the most followed elections on the planet, the U.S elections, and more specifically in 2017, to answer such a question.  
 
 ------------------------------------------------------------------------------------------
 

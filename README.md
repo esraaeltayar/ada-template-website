@@ -14,6 +14,7 @@ The radicalization dataset combines a total of 676 politically oriented channels
 In our first part of our analysis, we are examining the general interest in political videos on YouTube. Therefore, we focus on the three categories which potentially could include political videos, that is "News & Politics", "People & Blogs", and "Nonprofits & Activism" and plot the amount of quarterly released videos and the quartaly total views per category. One interesting finding from our analysis of YouTube videos is that the "News & Politics" category seems to be experiencing rapid growth. Specifically, the number of videos in this category appears to be increasing exponentially, and the number of views is following a similar trend. 
 
 {% include QuarterlyVideos.html %}
+
 {% include QuarterlyViews.html %}
 
 This suggests that there is a high level of interest in this type of content among YouTube users.

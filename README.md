@@ -55,7 +55,7 @@ Looks like people might not be too keen on staying up to date with current event
 
 
 
-![why-so-serious-joker](assets/img/why-so-serious-joker.gif)
+![why-so-serious-joker](assets/img/why-so-serious-joker.gif){ style="display: block; margin: 0 auto" }
 .
 
 ## An Analysis of Trump, Obama, and Clinton on YouTube: Quantity, Quality, and Sentiment

@@ -151,7 +151,7 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 
 ## Conclusion
-It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. So is there a general negativity in the air we breathe or is there something else increasing the heat? What is better than looking into the most followed elections on the planet, the U.S elections, and more specifically in 2017, to answer such a question.  
+It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. So is there a general negativity in the air we breathe or is there something else increasing the heat? What is better than looking into the most followed elections on the planet, the U.S elections, and more specifically in 2017, to answer such a question. Videos which were taking side to a certain candidate were increasingly disliked by viewers around the time of elections showing a sign of political polarization. 
 
 ------------------------------------------------------------------------------------------
 

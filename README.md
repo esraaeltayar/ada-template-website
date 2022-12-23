@@ -150,7 +150,7 @@ Digging further into the political spectrum, we put some of the buzz topics in t
 
 It can be observed that the negative sentiment is overriding the scene regardless of the topic addressed. It also seems like the right wing is following a more negative tone than the left wing for topics related to "Russia" and "China", in comparison with "climate change", "Putin", "Police", and "immigration" which has a slight difference in favor of the left wing in negativity.
 
-To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting topics related to topics addressing "immigration", "Putin", and "Police" are with high statistical significance. 
+To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting topics related to topics addressing "immigration", "Putin", and "Police" are with statistical significance. 
 
 
 ![sent](/assets/img/sent.jpeg)

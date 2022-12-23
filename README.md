@@ -152,7 +152,7 @@ It can be observed that the negative sentiment is overriding the scene regardles
 To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting topics related to topics addressing "immigration", "Putin", and "Police" are with statistical significance. 
 
 
-![sent](/assets/img/sent.jpeg)
+![sent](/assets/img/sent1.png)
 
 
 ## Conclusion

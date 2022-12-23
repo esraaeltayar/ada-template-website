@@ -148,7 +148,7 @@ The most frequently used nouns in the titles for the left and right winged video
 
 Digging further into the political spectrum, we put some of the buzz topics in the American society under the spot light. We want to explore the context in which such topics are addressed by the political orientations in their videos from a sentiment point of view. The graph below illustrates the discrepancy of the sentiment between the right and left wings related to controversial issues: climate change, women rights, immigrants' status, and police.
 
-It is clear that the negative sentiment is overriding the scene regardless of the topic addressed. It also seems like the right wing is following a more negative tone than the left wing for topics related to health care, women rights, and immigration in comparison with climate change which is has a slight difference in favor of the left wing. 
+It can be observed that the negative sentiment is overriding the scene regardless of the topic addressed. It also seems like the right wing is following a more negative tone than the left wing for topics related to "Russia" and "China", in comparison with "climate change", "Putin", and "Police" which has a slight difference in favor of the left wing in negativity.
 
 To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting "women" issues are with high statistical significance. 
 

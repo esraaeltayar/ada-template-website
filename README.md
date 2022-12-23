@@ -74,7 +74,7 @@ This already shows that the amount of videos containing "Trump" in their descrip
 
 {% include QuarterlyVideosByFigure.html %}
 
-![quarterly views trump etc](/assets/img/trump_clinton_obama_monthly_views.png)
+{% include QuarterlyViewsByFigure.html %}
 
 We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinton videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, 
 

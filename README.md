@@ -1,4 +1,3 @@
-# Politics on Youtube
 ![wallpaper](/assets/img/wallpaper_new.jpg)
 
 ## Abstract

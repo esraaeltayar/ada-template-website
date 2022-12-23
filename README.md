@@ -36,7 +36,7 @@ In the previous part, we have seen that the interest in political videos is grow
 
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
 
-![Sentiment in video descriptions per category](assets/img/Sentiment_per_category.png)
+![Sentiment in video descriptions per category](assets/img/Sentiment_per_category.png){:style="display: block; margin: 0 auto" }
 
 It was also always the worst overtime.
 
@@ -44,7 +44,7 @@ It was also always the worst overtime.
 
 And if that wasn't enough, it also had the highest Heat Metric.
 
-![Heat in video descriptions per category](assets/img/Heat_per_category.png)
+![Heat in video descriptions per category](assets/img/Heat_per_category.png){:style="display: block; margin: 0 auto" }
 
 It consistently had the highest Heat overtime.
 

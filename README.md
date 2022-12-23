@@ -72,7 +72,7 @@ This already shows that the amount of videos containing "Trump" in their descrip
 
 
 
-![quarterly amount videos trump etc](/assets/img/trump_clinton_obama_videos.png)
+{% include QuarterlyVideosByFigure.html %}
 
 ![quarterly views trump etc](/assets/img/trump_clinton_obama_monthly_views.png)
 

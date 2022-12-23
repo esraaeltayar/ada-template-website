@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: Analyzing Politicalization on Youtube
-description: A template website for ADA
-show_downloads: True
-navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+title: Politics on Youtube
+#description: A template website for ADA
+#show_downloads: True
+#navigation:
+#  - title: Home
+#    url: /
+#  - title: Example
+#    url: example

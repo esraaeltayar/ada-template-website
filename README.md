@@ -151,8 +151,7 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 
 ## Conclusion
-
-
+It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. 
 
 ------------------------------------------------------------------------------------------
 

@@ -82,7 +82,7 @@ We can see from the first plot that there is a small increase in 2008 of release
 But it's not just the quantity of videos that's interesting - the sentiment for each of these figures also showed some interesting patterns. When we plotted the sentiment scores for Trump, Obama, and Clinton on the same graph, we saw that Trump had a huge positive jump in sentiment score from the beginning of 2014 until the end of 2015, while the sentiment scores for Obama and Clinton remained relatively stable.
 
 
-![monthly avg views trump etc](/assets/img/sent_figures.png)
+{% include QuarterlySentByFigure.html %}
 
 We can see that this increase in sentiment coincided with an increase in average views per videos as well compared to the other politicians. Which means that he was able to capture alot of good attention in this period. This shows more public interest in his videos or in other words, he was a trend in that period.
 
@@ -102,7 +102,7 @@ All in all, we can conclude that videos containing "Trump" got much more coverag
 ## Polarization before Election times:
 As the presidential elections draw closer, it's not uncommon to see an increase in heated discussions and polarization in the media. But what about on YouTube? To investigate this question, we used our "heat metric" - the average ratio of dislikes to total likes and dislikes for videos over time - to see if similar trends were emerging on the platform.
 
-![monthly avg views trump etc](assets/img/heat_before_elections.png)
+{% include QuarterlyHeatByFigure.html %}
 
 As the plot shows, there was a clear uptick in the heat metric around the time of the 2016 elections. In other words, there were more dislikes relative to likes and dislikes for videos featuring these figures during this period. This could be a sign of increased political polarization on YouTube, as viewers seemed to be more divided in their opinions about the candidates.
 

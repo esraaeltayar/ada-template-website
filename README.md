@@ -153,7 +153,7 @@ It is clear that the negative sentiment is overriding the scene regardless of th
 To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting "women" issues are with high statistical significance. 
 
 
-![sent_analysis_description](/assets/img/sent_analysis_description.jpg)
+![sent](/assets/img/sent.jpeg)
 
 
 ## Conclusion

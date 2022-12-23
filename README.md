@@ -37,7 +37,7 @@ According to our analysis of the sentiment of 74m YouTube video descriptions, it
 
 It was also always the worst overtime.
 
-![Sentiment in video descriptions per category overtime](assets/img/Sentiment_per_category_over_time.png)
+{% include QuarterlySentiment.html %}
 
 And if that wasn't enough, it also had the highest Heat Metric.
 

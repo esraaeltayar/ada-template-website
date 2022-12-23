@@ -28,7 +28,8 @@ Overall, the exponential growth of the news and politics category on YouTube hig
 
 
 ### It is all Gloom and Doom in politics:
-
+In the previous part, we have seen that the interest in political videos is growing rapidly. Thus, we are interested in analyzing the user behaviour and the general interaction with political videos in comparison to non-political videos. Therefore, we analyze the general sentiment per video category and the so defined "Heat metric", which is calculated as follows:
+$$\text{Heat} = \frac{\text{amount of dislikes}}{\text{amount of likes + amount of dislikes}}.$$
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
 
 ![Sentiment in video descriptions per category](assets/img/Sentiment_per_category.png)
@@ -37,11 +38,11 @@ It was also always the worst overtime.
 
 ![Sentiment in video descriptions per category overtime](assets/img/Sentiment_per_category_over_time.png)
 
-And if that wasn't enough, it also had the highest ratio of dislikes to likes and dislikes combined (which we call Heat Metric).
+And if that wasn't enough, it also had the highest Heat Metric.
 
 ![Heat in video descriptions per category](assets/img/Heat_per_category.png)
 
-It consistently had the highest heat overtime.
+It consistently had the highest Heat overtime.
 
 ![Heat in video descriptions per category overtime](assets/img/Heat_per_category_over_time.png)
 

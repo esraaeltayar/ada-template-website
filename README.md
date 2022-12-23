@@ -11,8 +11,7 @@ The radicalization dataset combines a total of 676 politically oriented channels
 
 
 ## More Politics on Youtube!
-
-One interesting finding from our analysis of YouTube videos is that the news and politics category seems to be experiencing rapid growth. Specifically, the number of videos in this category appears to be increasing exponentially, and the number of views is following a similar trend. 
+In our first part of our analysis, we are examining the general interest in political videos on YouTube. Therefore, we focus on the three categories which potentially could include political videos, that is "News & Politics", "People & Blogs", and "Nonprofits & Activism" and plot the amount of quarterly released videos and the quartaly total views per category. One interesting finding from our analysis of YouTube videos is that the "News & Politics" category seems to be experiencing rapid growth. Specifically, the number of videos in this category appears to be increasing exponentially, and the number of views is following a similar trend. 
 
 ![quarterly video release](/assets/img/number_videos_uploaded.png)
 
@@ -149,7 +148,7 @@ It is clear that the negative sentiment is overriding the scene regardless of th
 To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting "women" issues are with high statistical significance. 
 
 
-![sent_description](/assets/img/sent_description.jpg)
+![sent_analysis_description](/assets/img/sent_analysis_description.jpg)
 
 
 ## Conclusion

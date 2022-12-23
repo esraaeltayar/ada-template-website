@@ -86,7 +86,7 @@ But it's not just the quantity of videos that's interesting - the sentiment for 
 
 We can see that this increase in sentiment coincided with an increase in average views per videos as well compared to the other politicians. Which means that he was able to capture alot of good attention in this period. This shows more public interest in his videos or in other words, he was a trend in that period.
 
-![monthly avg views trump etc](/assets/img/avg_views_trump_etc.png)
+{% include QuarterlyAvgViewsByFigure.html %}
 
 So what could be causing these trends?
 - One possibility is that Trump was simply more effective at using YouTube to promote himself and his message. 
